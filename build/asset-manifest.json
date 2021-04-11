@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1062768.chunk.css",
+    "main.js": "/static/js/main.d99a3b00.chunk.js",
+    "main.js.map": "/static/js/main.d99a3b00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b85b7816.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b85b7816.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.b5d2ebb8.chunk.js": "/static/js/2.b5d2ebb8.chunk.js",
+    "static/js/2.b5d2ebb8.chunk.js.map": "/static/js/2.b5d2ebb8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e1062768.chunk.css.map": "/static/css/main.e1062768.chunk.css.map",
+    "static/js/2.b5d2ebb8.chunk.js.LICENSE.txt": "/static/js/2.b5d2ebb8.chunk.js.LICENSE.txt",
+    "static/media/college.959480c1.jpg": "/static/media/college.959480c1.jpg",
+    "static/media/error.89a0a1db.jpg": "/static/media/error.89a0a1db.jpg",
+    "static/media/girl.4cecce9e.jpg": "/static/media/girl.4cecce9e.jpg",
+    "static/media/library.8e3c0005.jpg": "/static/media/library.8e3c0005.jpg",
+    "static/media/students.34b2533c.jpg": "/static/media/students.34b2533c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85b7816.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b5d2ebb8.chunk.js",
+    "static/css/main.e1062768.chunk.css",
+    "static/js/main.d99a3b00.chunk.js"
+  ]
+}
